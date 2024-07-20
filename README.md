@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Me chamo Isaac</h1>
+<h1 align="center">Olá 👋, me chamo Isaac</h1>
 <h3 align="center">Um desenvolvedor frontend do Brasil</h3>
 
 - 🌱 Atualmente estou aprendendo **Inglês por meio do Duolingo**
